@@ -45,7 +45,19 @@ projects:
   # vk: your_username
   # website: http://your_website_url
   # youtube: your_username
-url: "personal-website.github.io"
+title: My GitHub Projects
+
+repository: MichaelCurrin/my-github-projects
+author: Michael Currin
+twitter_handle: MichaelCurrin
+
+### Build settings ###
+
+url: personal-website.github.io
+baseurl: ""
+
+theme: jekyll-bulma
+
 
 topics:
   - name: CSS
