@@ -47,16 +47,16 @@ projects:
   # youtube: your_username
 title: My GitHub Projects
 
-repository: MichaelCurrin/my-github-projects
-author: Michael Currin
-twitter_handle: MichaelCurrin
+# repository: MichaelCurrin/my-github-projects
+# author: Michael Currin
+# twitter_handle: MichaelCurrin
 
 ### Build settings ###
 
 url: personal-website.github.io
 baseurl: ""
 
-theme: jekyll-bulma
+# theme: jekyll-bulma
 
 
 topics:
