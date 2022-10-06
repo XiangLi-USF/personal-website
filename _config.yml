@@ -54,7 +54,7 @@ title: My GitHub Projects
 ### Build settings ###
 
 origin: "github.com"
-url: personal-website.github.io
+url: "personal-website.github.io"
 baseurl: ""
 
 # theme: jekyll-bulma
